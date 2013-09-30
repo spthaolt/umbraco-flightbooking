@@ -1,4 +1,4 @@
 umbraco-flightbooking
 =====================
 
-test disabling precompile
+redeploy
